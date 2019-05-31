@@ -1,5 +1,6 @@
 # BoyaConf Code of Conduct
 
+
 ## 1. Purpose
 
 A primary goal of BoyaConf is to be inclusive to the largest number of contributors, with
@@ -13,6 +14,7 @@ well as the consequences for unacceptable behavior.
 We invite all those who participate in BoyaConf to help us create safe and positive
 experiences for everyone.
 
+
 ## 2. Open Culture Citizenship
 
 A supplemental goal of this Code of Conduct is to increase open culture citizenship by encouraging
@@ -24,6 +26,7 @@ the many forms of inequality and abuses of power that exist in society.
 
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and
 encourages all participants to contribute to the fullest extent, we want to know.
+
 
 ## 3. Expected Behavior
 
@@ -39,6 +42,7 @@ The following behaviors are expected and requested of all community members:
     if they seem inconsequential.
   * Remember that community event venues may be shared with members of the public; please be
     respectful to all patrons of these locations.
+
 
 ## 4. Unacceptable Behavior
 
@@ -58,6 +62,7 @@ The following behaviors are considered harassment and are unacceptable within ou
   * Advocating for, or encouraging, any of the above behavior.
   * Sustained disruption of community events, including talks and presentations.
 
+
 ## 5. Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any community member, including sponsors, speakers, and those with
@@ -68,6 +73,7 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 If a community member engages in unacceptable behavior, the community organizers may take any action
 they deem appropriate, up to and including a temporary ban or permanent expulsion from the community
 without warning (and without refund in the case of a paid event).
+
 
 ## 6. Reporting Guidelines
 
@@ -83,11 +89,13 @@ enforcement or to otherwise help those experiencing unacceptable behavior feel s
 of in-person events, organizers will also provide escorts as desired by the person experiencing
 distress.
 
+
 ## 7. Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should
 notify the organizers with a concise description of your grievance. Your grievance will be handled
 in accordance with our existing governing policies.
+
 
 ## 8. Scope
 
@@ -98,6 +106,7 @@ one-on-one communications pertaining to community business.
 This code of conduct and its related procedures also applies to unacceptable behavior occurring
 outside the scope of community activities when such behavior has the potential to adversely affect
 the safety and well-being of community members.
+
 
 ## 9. Need Help?
 
@@ -111,6 +120,7 @@ Send a direct message to the following Twitter accounts:
 * Sergio Rojas - [@Sergio_Rojas05](https://twitter.com/Sergio_Rojas05)
 * Jimmy Plazas - [@jimmyale3201](https://twitter.com/jimmyale3201)
 * BoyaConf - [@BoyaConf](https://twitter.com/BoyaConf)
+
 
 ## 10. License and attribution
 
