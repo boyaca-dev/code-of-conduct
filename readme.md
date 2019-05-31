@@ -130,7 +130,8 @@ under a [Creative Commons Attribution-ShareAlike license](http://creativecommons
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/)
 and the [Geek Feminism Anti-HarassmentPolicy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-Code of Conduct originally made for [ScaleConf Colombia](https://github.com/ScaleConfCo/code-of-conduct)
+Code of Conduct originally made by [ScaleConf Colombia](https://github.com/ScaleConfCo/code-of-conduct) and adapted accordingly.
+
 
 _Revision 2.2. Posted 4 February 2016._
 
