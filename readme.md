@@ -1,8 +1,8 @@
-# ScaleConf Colombia Code of Conduct
+# BoyaConf Code of Conduct
 
 ## 1. Purpose
 
-A primary goal of ScaleConf Colombia is to be inclusive to the largest number of contributors, with
+A primary goal of BoyaConf is to be inclusive to the largest number of contributors, with
 the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly,
 safe and welcoming environment for all, regardless of gender, sexual orientation, ability,
 ethnicity, socioeconomic status, and religion (or lack thereof).
@@ -10,7 +10,7 @@ ethnicity, socioeconomic status, and religion (or lack thereof).
 This code of conduct outlines our expectations for all those who participate in our community, as
 well as the consequences for unacceptable behavior.
 
-We invite all those who participate in ScaleConf Colombia to help us create safe and positive
+We invite all those who participate in BoyaConf to help us create safe and positive
 experiences for everyone.
 
 ## 2. Open Culture Citizenship
@@ -73,10 +73,10 @@ without warning (and without refund in the case of a paid event).
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a
 community organizer as soon as possible. You may also reach the organizing team at
-[hola@scaleconfco.com](mailto://hola@scaleconfco.com)
+[hola@boyaconf.com](mailto://hola@boyaconf.com)
 
 Please read the
-[reporting guidelines](https://github.com/ScaleConfCo/code-of-conduct/blob/master/reporting-template.md).
+[reporting guidelines](https://github.com/BoyaConf/code-of-conduct/blob/master/reporting-template.md).
 
 Additionally, community organizers are available to help community members engage with local law
 enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context
@@ -104,12 +104,13 @@ the safety and well-being of community members.
 If you have any questions, comments, concerns, or to report anything that makes you feel
 uncomfortable or unsafe, you can use these channels:
 
-[hola@scaleconfco.com](mailto:hola@scaleconfco.com)
+[hola@boyaconf.com](mailto:hola@boyaconf.com)
 
 Send a direct message to the following Twitter accounts:
-* Catherine Lopez - [@LopezCatherine](https://twitter.com/LopezCatherine)
-* Jonathan Avendaño - [@jdavidavendano](https://twitter.com/jdavidavendano)
-* ScaleConf Colombia - [@scaleconfco](https://twitter.com/scaleconfco)
+* Jahir Fiquitiva - [@jahirfiquitiva](https://twitter.com/jahirfiquitiva)
+* Sergio Rojas - [@Sergio_Rojas05](https://twitter.com/Sergio_Rojas05)
+* Jimmy Plazas - [@jimmyale3201](https://twitter.com/jimmyale3201)
+* BoyaConf - [@BoyaConf](https://twitter.com/BoyaConf)
 
 ## 10. License and attribution
 
@@ -118,6 +119,8 @@ under a [Creative Commons Attribution-ShareAlike license](http://creativecommons
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/)
 and the [Geek Feminism Anti-HarassmentPolicy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+
+Code of Conduct originally made for [ScaleConf Colombia](https://github.com/ScaleConfCo/code-of-conduct)
 
 _Revision 2.2. Posted 4 February 2016._
 
