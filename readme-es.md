@@ -74,7 +74,7 @@ que consideren apropiada, hasta e incluyendo una prohibición temporal o expulsi
 
 Si eres víctima o testigo de un comportamiento inaceptable, o tienes alguna otra inquietud, notifica a
 cualquier organizador(a) de la comunidad tan pronto como sea posible. También puedes comunicarte con el equipo organizador en
-[hola@boyaconf.com](mailto://hola@boyaconf.com)
+[hola@boyaconf.com](mailto:hola@boyaconf.com)
 
 Por favor lee las
 [Directrices de Informes](https://github.com/BoyaConf/code-of-conduct/blob/master/reporting-template.md) (en Inglés).
@@ -108,13 +108,13 @@ el potencial de afectar de forma adversa la seguridad y el bienestar de los miem
 Si tienes preguntas, comentarios, preocupaciones, o quieres reportar algo más que te haga sentir
 incómodo o inseguro, puedes usar los siguientes canales:
 
-[hola@boyaconf.com](mailto://hola@boyaconf.com)
+[hola@boyaconf.com](mailto:hola@boyaconf.com)
 
 Envía un mensaje directo a las siguientes cuentas de Twitter:
 * Jahir Fiquitiva - [@jahirfiquitiva](https://twitter.com/jahirfiquitiva)
 * Sergio Rojas - [@Sergio_Rojas05](https://twitter.com/Sergio_Rojas05)
 * Jimmy Plazas - [@jimmyale3201](https://twitter.com/jimmyale3201)
-* BoyaConf - [@BoyaConf](https://twitter.com/BoyaConf)
+* BoyaConf - [@boyaconf](https://twitter.com/boyaconf)
 
 
 ## 10. Licencia y atribución

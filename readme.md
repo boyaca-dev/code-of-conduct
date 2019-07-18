@@ -79,7 +79,7 @@ without warning (and without refund in the case of a paid event).
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a
 community organizer as soon as possible. You may also reach the organizing team at
-[hola@boyaconf.com](mailto://hola@boyaconf.com)
+[hola@boyaconf.com](mailto:hola@boyaconf.com)
 
 Please read the
 [reporting guidelines](https://github.com/BoyaConf/code-of-conduct/blob/master/reporting-template.md).
@@ -119,7 +119,7 @@ Send a direct message to the following Twitter accounts:
 * Jahir Fiquitiva - [@jahirfiquitiva](https://twitter.com/jahirfiquitiva)
 * Sergio Rojas - [@Sergio_Rojas05](https://twitter.com/Sergio_Rojas05)
 * Jimmy Plazas - [@jimmyale3201](https://twitter.com/jimmyale3201)
-* BoyaConf - [@BoyaConf](https://twitter.com/BoyaConf)
+* BoyaConf - [@boyaconf](https://twitter.com/boyaconf)
 
 
 ## 10. License and attribution
