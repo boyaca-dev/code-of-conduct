@@ -73,11 +73,8 @@ que consideren apropiada, hasta e incluyendo una prohibición temporal o expulsi
 ## 6. Directrices para la presentación de informes
 
 Si eres víctima o testigo de un comportamiento inaceptable, o tienes alguna otra inquietud, notifica a
-cualquier organizador(a) de la comunidad tan pronto como sea posible. También puedes comunicarte con el equipo organizador en
-[hola@boyaconf.com](mailto:hola@boyaconf.com)
-
-Por favor lee las
-[Directrices de Informes](https://github.com/BoyaConf/code-of-conduct/blob/master/reporting-template.md) (en Inglés).
+cualquier organizador(a) de la comunidad tan pronto como sea posible. También puedes [crear un reporte](http://bit.ly/boyaconf-reporte), 
+o comunicarte con el equipo organizador en [hola@boyaconf.com](mailto:hola@boyaconf.com).
 
 Además, los organizadores están disponibles para ayudar a los miembros de la comunidad a comprometerse con el cumplimiento de las leyes locales,
 la aplicación de la ley o para ayudar de otra manera a que aquellos que experimentan comportamientos inaceptables se sientan seguros. En el contexto

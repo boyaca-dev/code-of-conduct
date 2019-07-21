@@ -78,8 +78,8 @@ without warning (and without refund in the case of a paid event).
 ## 6. Reporting Guidelines
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a
-community organizer as soon as possible. You may also reach the organizing team at
-[hola@boyaconf.com](mailto:hola@boyaconf.com)
+community organizer as soon as possible. You may also reach the organizing team by [creating a report](http://bit.ly/boyaconf-report) 
+or sending an email to [hola@boyaconf.com](mailto:hola@boyaconf.com)
 
 Please read the
 [reporting guidelines](https://github.com/BoyaConf/code-of-conduct/blob/master/reporting-template.md).
