@@ -8,10 +8,8 @@ the most varied and diverse backgrounds possible. As such, we are committed to p
 safe and welcoming environment for all, regardless of gender, sexual orientation, ability,
 ethnicity, socioeconomic status, and religion (or lack thereof).
 
-
 This code of conduct outlines our expectations for all those who participate in our community, as
 well as the consequences for unacceptable behavior.
-
 
 We invite all those who participate in BoyaConf to help us create safe and positive
 experiences for everyone.
@@ -23,10 +21,8 @@ A supplemental goal of this Code of Conduct is to increase open culture citizens
 participants to recognize and strengthen the relationships between our actions and their effects on
 our community.
 
-
 Communities mirror the societies in which they exist and positive action is essential to counteract
 the many forms of inequality and abuses of power that exist in society.
-
 
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and
 encourages all participants to contribute to the fullest extent, we want to know.
@@ -85,7 +81,6 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 community organizer as soon as possible. You may also reach the organizing team by [creating a report](http://bit.ly/boyaconf-report) 
 or sending an email to [hola@boyaconf.com](mailto:hola@boyaconf.com)
 
-
 Additionally, community organizers are available to help community members engage with local law
 enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context
 of in-person events, organizers will also provide escorts as desired by the person experiencing
@@ -105,7 +100,6 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 to abide by this Code of Conduct in all community venues--online and in-person--as well as in all
 one-on-one communications pertaining to community business.
 
-
 This code of conduct and its related procedures also applies to unacceptable behavior occurring
 outside the scope of community activities when such behavior has the potential to adversely affect
 the safety and well-being of community members.
@@ -117,7 +111,6 @@ If you have any questions, comments, concerns, or to report anything that makes 
 uncomfortable or unsafe, you can use these channels:
 
 [hola@boyaconf.com](mailto:hola@boyaconf.com)
-
 
 Send a direct message to the following Twitter accounts:
 * Jahir Fiquitiva - [@jahirfiquitiva](https://twitter.com/jahirfiquitiva)
@@ -131,13 +124,10 @@ Send a direct message to the following Twitter accounts:
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org)
 under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
-
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/)
 and the [Geek Feminism Anti-HarassmentPolicy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-
 Code of Conduct originally made by [ScaleConf Colombia](https://github.com/ScaleConfCo/code-of-conduct) and adapted accordingly.
-
 
 
 _Revision 2.2. Posted 4 February 2016._
