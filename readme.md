@@ -113,10 +113,10 @@ uncomfortable or unsafe, you can use these channels:
 [hola@boyaconf.com](mailto:hola@boyaconf.com)
 
 Send a direct message to the following Twitter accounts:
+* BoyaConf - [@boyaconf](https://twitter.com/boyaconf)
 * Jahir Fiquitiva - [@jahirfiquitiva](https://twitter.com/jahirfiquitiva)
 * Sergio Rojas - [@Sergio_Rojas05](https://twitter.com/Sergio_Rojas05)
 * Jimmy Plazas - [@jimmyale3201](https://twitter.com/jimmyale3201)
-* BoyaConf - [@boyaconf](https://twitter.com/boyaconf)
 
 
 ## 10. License and attribution
