@@ -108,10 +108,10 @@ incómodo o inseguro, puedes usar los siguientes canales:
 [hola@boyaconf.com](mailto:hola@boyaconf.com)
 
 Envía un mensaje directo a las siguientes cuentas de Twitter:
+* BoyaConf - [@boyaconf](https://twitter.com/boyaconf)
 * Jahir Fiquitiva - [@jahirfiquitiva](https://twitter.com/jahirfiquitiva)
 * Sergio Rojas - [@Sergio_Rojas05](https://twitter.com/Sergio_Rojas05)
 * Jimmy Plazas - [@jimmyale3201](https://twitter.com/jimmyale3201)
-* BoyaConf - [@boyaconf](https://twitter.com/boyaconf)
 
 
 ## 10. Licencia y atribución
