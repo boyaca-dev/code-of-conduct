@@ -1,9 +1,9 @@
-# Código de Conducta BoyaConf
+# Código de Conducta Boyacá Dev
 
 
 ## 1. Propósito
 
-El objetivo principal de BoyaConf es incluir al mayor número de contribuyentes, con los
+El objetivo principal de Boyacá Dev es incluir al mayor número de contribuyentes, con los
 antecedentes más variados y diversos posibles. Como tal, estamos comprometidos a proporcionar un servicio amable,
 un ambiente seguro y acogedor para todos, sin distinción de género, orientación sexual, capacidades,
 etnicidad, estatus socioeconómico ni religión (o falta de ella).
@@ -11,7 +11,7 @@ etnicidad, estatus socioeconómico ni religión (o falta de ella).
 Este código de conducta describe nuestras expectativas para todos aquellos que participan en nuestra comunidad,
 así como las consecuencias por un comportamiento inaceptable.
 
-Invitamos a todos aquellos que participan en BoyaConf para que nos ayuden a crear un ambiente seguro y experiencias positivas para todos.
+Invitamos a todos aquellos que participan en Boyacá Dev para que nos ayuden a crear un ambiente seguro y experiencias positivas para todos.
 
 
 ## 2. Cultura abierta
@@ -105,10 +105,10 @@ el potencial de afectar de forma adversa la seguridad y el bienestar de los miem
 Si tienes preguntas, comentarios, preocupaciones, o quieres reportar algo más que te haga sentir
 incómodo o inseguro, puedes usar los siguientes canales:
 
-[hola@boyaconf.com](mailto:hola@boyaconf.com)
+[hola@boyaca-dev.org](mailto:hola@boyaca-dev.org)
 
 Envía un mensaje directo a las siguientes cuentas de Twitter:
-* BoyaConf - [@boyaconf](https://twitter.com/boyaconf)
+* Boyacá Dev - [@boyaca_dev](https://twitter.com/boyaca_dev)
 * Jahir Fiquitiva - [@jahirfiquitiva](https://twitter.com/jahirfiquitiva)
 * Sergio Rojas - [@Sergio_Rojas05](https://twitter.com/Sergio_Rojas05)
 * Jimmy Plazas - [@jimmyale3201](https://twitter.com/jimmyale3201)
