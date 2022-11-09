@@ -1,9 +1,9 @@
-# BoyaConf Code of Conduct
+# Boyacá Dev Code of Conduct
 
 
 ## 1. Purpose
 
-A primary goal of BoyaConf is to be inclusive to the largest number of contributors, with
+A primary goal of Boyacá Dev is to be inclusive to the largest number of contributors, with
 the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly,
 safe and welcoming environment for all, regardless of gender, sexual orientation, ability,
 ethnicity, socioeconomic status, and religion (or lack thereof).
@@ -11,7 +11,7 @@ ethnicity, socioeconomic status, and religion (or lack thereof).
 This code of conduct outlines our expectations for all those who participate in our community, as
 well as the consequences for unacceptable behavior.
 
-We invite all those who participate in BoyaConf to help us create safe and positive
+We invite all those who participate in Boyacá Dev to help us create safe and positive
 experiences for everyone.
 
 
@@ -79,7 +79,7 @@ without warning (and without refund in the case of a paid event).
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a
 community organizer as soon as possible. You may also reach the organizing team by [creating a report](http://bit.ly/boyaconf-report) 
-or sending an email to [hola@boyaconf.com](mailto:hola@boyaconf.com)
+or sending an email to [hola@boyaca-dev.org](mailto:hola@boyaca-dev.org)
 
 Additionally, community organizers are available to help community members engage with local law
 enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context
@@ -110,10 +110,10 @@ the safety and well-being of community members.
 If you have any questions, comments, concerns, or to report anything that makes you feel
 uncomfortable or unsafe, you can use these channels:
 
-[hola@boyaconf.com](mailto:hola@boyaconf.com)
+[hola@boyaca-dev.org](mailto:hola@boyaca-dev.org)
 
 Send a direct message to the following Twitter accounts:
-* BoyaConf - [@boyaconf](https://twitter.com/boyaconf)
+* Boyacá Dev - [@boyaca_dev](hola@boyaca-dev.org)
 * Jahir Fiquitiva - [@jahirfiquitiva](https://twitter.com/jahirfiquitiva)
 * Sergio Rojas - [@Sergio_Rojas05](https://twitter.com/Sergio_Rojas05)
 * Jimmy Plazas - [@jimmyale3201](https://twitter.com/jimmyale3201)
