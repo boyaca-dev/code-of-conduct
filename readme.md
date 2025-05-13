@@ -114,8 +114,8 @@ uncomfortable or unsafe, you can use these channels:
 
 Send a direct message to the following Twitter accounts:
 * Boyacá Dev - [@boyaca_dev](hola@boyaca-dev.org)
-* Jahir Fiquitiva - [@jahirfiquitiva](https://twitter.com/jahirfiquitiva)
-* Sergio Rojas - [@Sergio_Rojas05](https://twitter.com/Sergio_Rojas05)
+* Jahir Fiquitiva - [@jahirfiquitiva](https://x.com/jahirfiquitiva)
+* Sergio Rojas - [@Sergio_Rojas05](https://x.com/Sergio_Rojas05)
 * Jimmy Plazas - [@jimmy_plazas_](https://x.com/jimmy_plazas_)
 
 
