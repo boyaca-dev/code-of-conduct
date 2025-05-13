@@ -116,7 +116,7 @@ Send a direct message to the following Twitter accounts:
 * Boyacá Dev - [@boyaca_dev](hola@boyaca-dev.org)
 * Jahir Fiquitiva - [@jahirfiquitiva](https://twitter.com/jahirfiquitiva)
 * Sergio Rojas - [@Sergio_Rojas05](https://twitter.com/Sergio_Rojas05)
-* Jimmy Plazas - [@jimmyale3201](https://twitter.com/jimmyale3201)
+* Jimmy Plazas - [@jimmy_plazas_](https://x.com/jimmy_plazas_)
 
 
 ## 10. License and attribution
